@@ -37,8 +37,8 @@
 
 **Note**: Each series of exercises involved implementing specific algorithms and techniques related to problem resolution, primarily using Python.
 
-## Contributors
-
-- [@RB-Younes](https://github.com/RB-Younes)
+## Collaborators
 - [@NaaaaaaaaaaDaa](https://github.com/NaaaaaaaaaaDaa)
+- [@RB-Younes](https://github.com/RB-Younes)
+
 
